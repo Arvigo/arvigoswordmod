@@ -11,7 +11,7 @@ All of these items can be found in their respctive tabs on creative. A Henrium S
 Currently Henrium does not spawn naturally, and needs to be placed in creative or by the command "give @[player name] arvigoswordmod:[Item] [quantity]
 
 To install and play this mod:
-  1) Download the recommended version of Forge for 1.16.5 https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.16.5.html
+  1) Download the recommended version of Forge for 1.16.5 (36.1.0) https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.16.5.html
   2) Install on the default settings, go to the Minecaft Launcher, and under versions you should see the Forge version, run it once and exit the game.
   3) Press Windows Key+R and type in "%appdata%
   4) Go to Roaming > .minecraft where there should be a "mods" folder
