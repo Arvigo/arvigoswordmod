@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "/"
+    ],
+    "key": {
+        "#": {
+            "item": "arvigoswordmod:example_item"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "arvigoswordmod:example_sword",
+        "count": 1
+    }
+}
